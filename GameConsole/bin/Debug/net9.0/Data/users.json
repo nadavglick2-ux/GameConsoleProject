@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "11",
+    "Username": "11",
+    "Password": "11",
+    "HighScores": [
+      {
+        "GameName": "Pac-Man",
+        "Score": 13,
+        "AchievedOn": "2025-12-29T21:45:44.5648379+02:00"
+      }
+    ],
+    "LastPlayedGame": null
+  },
+  {
+    "Name": "22",
+    "Username": "22",
+    "Password": "22",
+    "HighScores": [],
+    "LastPlayedGame": null
+  }
+]
